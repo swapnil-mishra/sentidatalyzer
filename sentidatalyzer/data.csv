@@ -1,0 +1,47 @@
+Name,Date of order,Prodtype,Rating,Feedback,Comment,Score
+
+Aayushi,2021-01-02,Product Type 2,4,good,Positive,1
+
+Reshmi,2020-12-23,Product Type 1,4,Not worth it cheap quality products..needs replacement,Negative,-1
+
+Rohini,2020-12-12,Product Type 4,3,The dress is okay,Positive,1
+
+Rahul,2020-12-04,Product Type 5,1,Pathetic texture and outlook please exchange,Negative,-1
+
+Ranbir,2020-04-12,Product Type 3,3,The item is working fine ,Positive,1
+
+Arvind,2020-09-11,Product Type 3,3,the product was so so and it didnt last long as expected,Neutral,0
+
+Veena,2020-08-08,Product Type 2,5,Just wow,Positive,1
+
+Hrittik,2020-08-11,Product Type 4,5,Wonderful pair of shoes. Loved it,Positive,1
+
+Roshan,2020-11-11,Product Type 5,5,Feels great to have the quality as expected,Positive,1
+
+Sanjana,2020-11-30,Product Type 3,3,Price is higher than expected,Neutral,0
+
+Akansha,2021-01-09,Product Type 3,5,Loved it.,Positive,1
+
+Sweta,2020-10-10,Product Type 4,4,Nice pair of earrings,Positive,1
+
+Ranjit,2021-01-07,Product Type 5,5,Quality at its best,Positive,1
+
+Rima,2020-12-13,Product Type 5,2,Poor quality..product not upto the mark,Negative,-1
+
+Renu,2019-12-12,Product Type 4,1,Disliked the quality. Product quality wasn't upto the mark,Negative,-1
+
+Rumi,2020-12-12,Product Type 1,5,Loved the texture,Positive,1
+
+user1,2020-12-14,Product Type 3,5,Product worth the price,Positive,1
+
+user2,2020-12-07,Product Type 5,3,item packaging was so so.,Neutral,0
+
+user3,2021-02-15,Product Type 3,2,Product requires some end touches,Neutral,0
+
+user4,2020-11-18,Product Type 3,3,Great,Positive,1
+
+user5,2020-11-16,Product Type 2,2,Just average,Neutral,0
+
+user6,2020-11-17,Product Type 2,2,wow,Positive,0
+
+user7,2020-12-16,Product Type 2,2,loving it,Positive,0

@@ -18,6 +18,6 @@ Sentidatalyzer is a sentiment analyzer application that identifies the customer 
  - sentiment analysis output is shown on the right side of display
  - data entered by the user is appended on submit inside data.csv
 
-#### Analysing data:
+#### Analyzing data:
  - go to data.ipynb file and run all the cells.
  - data outputs of analysis will be available in the python script file. Visualization outputs are written to respective plots images inside static/plots path and the model data output inside Output.csv file

@@ -3,7 +3,10 @@ Sentidatalyzer is a sentiment analyzer application that identifies the customer 
 
 ## TCS INFRAMIND SEASON 4 ROUND 2 SUBMISSION: ENTERPRISE AI
 ![](https://github.com/swapnil-mishra/sentidatalyzer/blob/main/git-images/tcscover.png)
-|<img src="https://github.com/swapnil-mishra/sentidatalyzer/blob/main/git-images/home.png" width="500">|<img src="https://github.com/swapnil-mishra/sentidatalyzer/blob/main/git-images/analyze.png" width="500">|
+<p float="left">
+  <img src="https://github.com/swapnil-mishra/sentidatalyzer/blob/main/git-images/home.png" width="500" />
+  <img src="https://github.com/swapnil-mishra/sentidatalyzer/blob/main/git-images/analyze.png" width="500" /> 
+</p>
 
 ### STEPS TO FOLLOW:
 #### Accessing files:

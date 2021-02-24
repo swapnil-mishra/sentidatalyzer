@@ -2,7 +2,7 @@
 Sentidatalyzer is a sentiment analyzer application that identifies the customer sentiment through the customer feedback and accordingly sends the input data to the output file for analytics to predict customer’s satisfaction behaviour .
 
 ## TCS INFRAMIND SEASON 4 ROUND 2 SUBMISSION: ENTERPRISE AI
-<img src="https://github.com/swapnil-mishra/sentidatalyzer/blob/main/git-images/tcscover.png" width="1000">
+![] (https://github.com/swapnil-mishra/sentidatalyzer/blob/main/git-images/tcscover.png)
 <img src="https://github.com/swapnil-mishra/sentidatalyzer/blob/main/git-images/home.png" width="500">  <img src="https://github.com/swapnil-mishra/sentidatalyzer/blob/main/git-images/analyze.png" width="500">
 
 ### STEPS TO FOLLOW:
